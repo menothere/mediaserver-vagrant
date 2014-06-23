@@ -1,0 +1,15 @@
+[submodule "src/plexupdate"]
+	path = src/plexupdate
+	url = git@github.com:mrworf/plexupdate.git
+[submodule "src/sabnzbd"]
+	path = src/sabnzbd
+	url = git@github.com:sabnzbd/sabnzbd.git
+[submodule "src/sickbeard"]
+	path = src/sickbeard
+	url = git@github.com:midgetspy/Sick-Beard.git
+[submodule "src/couchpotato"]
+	path = src/couchpotato
+	url = git@github.com:RuudBurger/CouchPotatoServer.git
+[submodule "src/headphones"]
+	path = src/headphones
+	url = git@github.com:rembo10/headphones.git
